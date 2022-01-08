@@ -1,0 +1,2 @@
+# Rusky
+The Rusky bot!
